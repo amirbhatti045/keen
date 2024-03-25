@@ -176,6 +176,7 @@
     /* background-color: #286851; */
     margin: -20px auto;
     position: relative;
+    overflow: hidden;
 }
 .registration-h3{
     font-family: Arial, Helvetica, sans-serif;
@@ -194,6 +195,7 @@
     width: 280px;
     margin: 5px;
     border: 1px solid rgba(0,0,0,0.2);
+   
 }
 .apple-btn{
     width: 280px;
@@ -205,4 +207,41 @@
 }
 .apple-btn:hover{
     background-color: #989fad;
+}
+.or-line{
+    position: absolute;
+    top: 0;
+    margin-top: 300px !important;
+
+}
+.form-div{
+    position: absolute;
+    top: 340px;
+    
+}
+.btn-form{
+    width: 600px;
+    margin-top: 20px;
+    color: white;
+    background-color: #286851;
+}
+.sign-in{
+    width: 300px;
+    height: 50px;
+    margin: -70px auto;
+    padding-left: 50px;    
+}
+.footer{
+    width: 250px;
+    height: 150px;
+    /* background-color: #212121; */
+    margin: auto;
+    padding-left: 60px;
+    overflow: hidden;
+}
+.footer-tag{
+    font-size: 13px;
+}
+.footer-h6{
+    font-size: 10px;
 }
