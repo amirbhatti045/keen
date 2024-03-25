@@ -128,3 +128,81 @@
         width: 100%;
         height: auto;
     }
+
+    /* started amir bhatti */
+.full-card{
+    height: 450px;
+    box-sizing: border-box;
+    box-shadow: 8px 16px 16px 8px solid black;
+}
+.card-images{
+    width: 150px;
+    /* margin: 20px; */
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#rating{
+   
+     color: yellow;
+     overflow: hidden;
+    
+}
+#fivedoller{
+    background-color: #ebe2ef;
+    width: 150px;
+    height: 25px;
+    line-height: 1px;
+}.btn-call{
+    background-color: #286851;
+}
+.btn-chat{
+    background-color: #286851;
+}
+.three-dots-cards{
+    margin-left: 270px;
+    margin-top: 10px;
+    font-size: 25px;
+    position: absolute;
+}
+
+
+
+/* registration */
+
+#registration{
+    width: 600px;
+    height: 800px;
+    /* background-color: #286851; */
+    margin: -20px auto;
+    position: relative;
+}
+.registration-h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px ;
+}
+.registration-h6{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.buttons{
+    position: absolute;
+    top: 0;
+    margin: 230px 0px 0px 340px;
+    /* margin: 10px; */
+}
+.gooogle-btn{
+    width: 280px;
+    margin: 5px;
+    border: 1px solid rgba(0,0,0,0.2);
+}
+.apple-btn{
+    width: 280px;
+    margin: 5px;
+    border: 1px solid rgba(0,0,0,0.2);
+}
+.gooogle-btn:hover{
+    background-color: #989fad;
+}
+.apple-btn:hover{
+    background-color: #989fad;
+}
