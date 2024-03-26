@@ -245,3 +245,17 @@
 .footer-h6{
     font-size: 10px;
 }
+.forget-password{
+    margin:  0px 0px 0px 340px;
+    text-decoration: none !important;
+    color: #212121;
+}
+#singn-in{
+    margin-top: -200px;
+}
+.phone-number{
+    margin: 0px 0px -10px 200px;
+}
+.sign-curse{
+    cursor: pointer !important;
+}
